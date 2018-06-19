@@ -3,7 +3,11 @@
     "title": "Test Angular realworld"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Me"
+      }
+    ],
     "diagrams": [
       {
         "title": "Test",
